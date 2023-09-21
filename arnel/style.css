@@ -1,0 +1,43 @@
+body{
+    margin:1px;
+    padding:1px;
+    background-image: radial-gradient();
+    font-family:system-ui;
+}
+.clearfix{
+    clear:both;
+}
+.main{
+    height:127px;
+    width:127px;
+    background-color: orange;
+    box-shadow: 1px 1px 1px 1px;
+    margin:auto;
+}
+.top-section{
+    background-color:
+    text-align: center;
+}
+.profile{
+    width: 127px;
+    border-radius:50;
+}
+.p1{
+    color:orange;
+    font-size:10px;
+    margin-top:10px;
+}
+.p1 span{
+    font-weight:100;
+    color: #c7c7c7;
+}
+.p2{
+    font-size: 20px;
+    color: #c7c7c7;
+
+
+
+
+
+
+
